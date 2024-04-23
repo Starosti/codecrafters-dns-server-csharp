@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "codecrafters-dns-server": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "--resolver 1.1.1.1:53"
+    }
+  }
+}
